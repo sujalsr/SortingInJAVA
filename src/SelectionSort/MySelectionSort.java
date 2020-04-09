@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class MySelectionSort {
     public static void main(String[] args) {
+
         int[] arr = {25, 2, 8, 3, 5, 9};
         MySelectionSort obj = new MySelectionSort();
         System.out.println("Unsorted ----> " + Arrays.toString(arr));
